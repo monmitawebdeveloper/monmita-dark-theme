@@ -4,10 +4,10 @@
   "description": "The VS Code theme you've seen in all my YouTube videos!",
   "version": "0.0.1",
   "publisher": "MonmitaCoder",
-  "icon": "profile-square-150px.jpg",
+  "icon": "monmitacoder-128.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thecodercoder/codercoder-dark-theme"
+    "url": "https://github.com/monmitawebdeveloper/monmita-dark-theme"
   },
   "keywords": [
     "theme",
