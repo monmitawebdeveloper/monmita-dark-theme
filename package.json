@@ -2,7 +2,7 @@
   "name": "monmita-dark-theme",
   "displayName": "monmita dark",
   "description": "The VS Code theme you've seen in all my YouTube videos!",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "MonmitaCoder",
   "icon": "monmitacoder-128.png",
   "repository": {
