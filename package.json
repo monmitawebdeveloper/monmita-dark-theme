@@ -1,0 +1,35 @@
+{
+  "name": "monmita-dark-theme",
+  "displayName": "monmita dark",
+  "description": "The VS Code theme you've seen in all my YouTube videos!",
+  "version": "0.0.1",
+  "publisher": "MonmitaCoder",
+  "icon": "profile-square-150px.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecodercoder/codercoder-dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Monmita coder",
+    "monmitacoder",
+    "themonmitacoder",
+    "monmita dark"
+  ],
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monmita dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monmita dark-color-theme.json"
+      }
+    ]
+  }
+}
