@@ -639,6 +639,20 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
+		},
+		{
+			"name": "python",
+			"scope": [
+				"meta.indexed-name.python",
+				"meta.item-access.python",
+				"meta.function-call.arguments.python",
+				"meta.function-call.python",
+				"source.python",
+				"meta.function-call"
+			],
+			"settings": {
+				"foreground": "#89DDFF"
+			}
 		}
 	]
 }
